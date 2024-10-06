@@ -1,4 +1,4 @@
-# NLP-Text-ClassificationNlp_emotions_classifier
+# NLP-Text-Classification
 Machine learning models to classify emotions in text samples
 
 Used Models:
